@@ -14,8 +14,7 @@ https://drive.google.com/file/d/11d6nfWAkl9sLF-iiSPQBO3EoYuGFrkFF/view?usp=shari
 - User-friendly interface
 
 ## 🛠️ Technologies Used
-- Java (or specify your language)
-- (Add anything else)
+- Java 
 
 ## 📌 Author
 Sange Mgqamqo
